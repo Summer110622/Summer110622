@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/summer-github-banner.jpg" width="100%" alt="Summer ocean banner" />
-
   <h1>Summer</h1>
   <p><strong>Engineer · Open-source developer</strong></p>
   <p>Building practical tools around Java, bytecode, Minecraft server ecosystems, and developer automation.</p>
