@@ -26,7 +26,7 @@
 
 ## Stack
 
-`Java` · `ASM` · `Bukkit` · `Paper` · `Folia` · `JavaFX` · `GitHub Actions` · `CheerpJ`
+`Java`
 
 ## Current focus
 
