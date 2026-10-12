@@ -1,41 +1,54 @@
-<div align="center">
-  <h1>Summer</h1>
-  <p><strong>Engineer · Open-source developer</strong></p>
-  <p>Building practical tools around Java, bytecode, Minecraft server ecosystems, and developer automation.</p>
-</div>
+# Hi, I'm Summer 👋
+
+**AI Engineering · Software Development · Open Source**
+
+Building intelligent software, developer tools, and practical AI-powered systems.
+
+Interested in bridging **AI research, software engineering, and real-world applications**.
 
 ---
 
-## Featured project — pasta
+### About Me
 
-**Bukkit → Folia bytecode transformer**
+I'm a software developer exploring how artificial intelligence can transform the way we build and interact with software.
 
-[pasta](https://github.com/Summer110622/pasta) transforms compiled Bukkit plugins for Folia without requiring plugin source code or recompilation. It uses ASM to rewrite bytecode and provides multiple ways to run the same transformation pipeline.
+My interests include:
 
-- **Bytecode transformation** — ASM-based rewriting of compiled `.class` files
-- **Multiple frontends** — Browser, CLI, JavaFX GUI, and server plugin
-- **CI integration** — GitHub Actions support for automated Folia patching
-- **Local-first browser workflow** — JAR processing through CheerpJ
-- **Open source** — MIT licensed
+- **AI Agents** — Autonomous workflows, reasoning, and tool integration
+- **LLM Applications** — Building applications powered by language models
+- **RAG Systems** — Retrieval, knowledge integration, and contextual AI
+- **AI Automation** — Intelligent tools for developer productivity
+- **Software Engineering** — Reliable, maintainable, and scalable systems
 
-<p align="center">
-  <a href="https://github.com/Summer110622/pasta"><strong>View pasta on GitHub</strong></a>
-  ·
-  <a href="https://summer110622.github.io/pasta/"><strong>Open the web app</strong></a>
-</p>
+### Current Focus
 
-## Stack
+- Exploring agentic AI architectures and tool-calling systems
+- Experimenting with LLM-powered developer tools
+- Learning about retrieval-augmented generation and model evaluation
+- Building useful open-source software
 
-`Java`
+### Featured Project
 
-## Current focus
+**[pasta — Bukkit to Folia Bytecode Transformer](https://github.com/Summer110622/pasta)**
 
-- Improving **pasta**'s transformation coverage, safety, and developer experience
-- Making Folia compatibility workflows easier to use from CI and the browser
-- Building small, useful open-source infrastructure that can be inspected, reused, and improved
+An open-source developer tool that transforms compiled Bukkit plugins for Folia compatibility using ASM bytecode rewriting.
+
+Features include CLI, browser-based processing, JavaFX GUI, and GitHub Actions integration.
+
+[Repository](https://github.com/Summer110622/pasta) · [Web App](https://summer110622.github.io/pasta/)
+
+### Technologies & Interests
+
+**Software:** Java · Git · GitHub Actions
+
+**AI Interests:** LLMs · AI Agents · RAG · Tool Calling · AI Automation
+
+**Engineering:** Developer Tools · Bytecode Transformation · Open Source
 
 ---
 
-<div align="center">
-  <sub>Build useful things. Keep them open. Enjoy the summer.</sub>
-</div>
+### Engineering Philosophy
+
+> Build intelligent systems that are useful, reliable, and accessible.
+
+**Explore. Build. Iterate. Open Source.**
